@@ -9,7 +9,7 @@ from pymystem3 import Mystem
 from string import punctuation
 from collections import Counter
 
-bot = telebot.TeleBot('')
+bot = telebot.TeleBot('5015716211:AAGNmfZzVpGeG5ITB3ZNVIWGFi1wa3kC_zg')
 calc_val = 0
 calc_val2 = 0
 operator = ""
